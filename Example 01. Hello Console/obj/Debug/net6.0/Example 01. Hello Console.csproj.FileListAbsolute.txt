@@ -1,0 +1,15 @@
+D:\GeekBrains\3. Знакомство с языками\Лекция 1. Знакомство с языком программирования C#\Example 01. Hello Console\bin\Debug\net6.0\Example 01. Hello Console.exe
+D:\GeekBrains\3. Знакомство с языками\Лекция 1. Знакомство с языком программирования C#\Example 01. Hello Console\bin\Debug\net6.0\Example 01. Hello Console.deps.json
+D:\GeekBrains\3. Знакомство с языками\Лекция 1. Знакомство с языком программирования C#\Example 01. Hello Console\bin\Debug\net6.0\Example 01. Hello Console.runtimeconfig.json
+D:\GeekBrains\3. Знакомство с языками\Лекция 1. Знакомство с языком программирования C#\Example 01. Hello Console\bin\Debug\net6.0\Example 01. Hello Console.dll
+D:\GeekBrains\3. Знакомство с языками\Лекция 1. Знакомство с языком программирования C#\Example 01. Hello Console\bin\Debug\net6.0\Example 01. Hello Console.pdb
+D:\GeekBrains\3. Знакомство с языками\Лекция 1. Знакомство с языком программирования C#\Example 01. Hello Console\obj\Debug\net6.0\Example 01. Hello Console.csproj.AssemblyReference.cache
+D:\GeekBrains\3. Знакомство с языками\Лекция 1. Знакомство с языком программирования C#\Example 01. Hello Console\obj\Debug\net6.0\Example 01. Hello Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\3. Знакомство с языками\Лекция 1. Знакомство с языком программирования C#\Example 01. Hello Console\obj\Debug\net6.0\Example 01. Hello Console.AssemblyInfoInputs.cache
+D:\GeekBrains\3. Знакомство с языками\Лекция 1. Знакомство с языком программирования C#\Example 01. Hello Console\obj\Debug\net6.0\Example 01. Hello Console.AssemblyInfo.cs
+D:\GeekBrains\3. Знакомство с языками\Лекция 1. Знакомство с языком программирования C#\Example 01. Hello Console\obj\Debug\net6.0\Example 01. Hello Console.csproj.CoreCompileInputs.cache
+D:\GeekBrains\3. Знакомство с языками\Лекция 1. Знакомство с языком программирования C#\Example 01. Hello Console\obj\Debug\net6.0\Example 01. Hello Console.dll
+D:\GeekBrains\3. Знакомство с языками\Лекция 1. Знакомство с языком программирования C#\Example 01. Hello Console\obj\Debug\net6.0\refint\Example 01. Hello Console.dll
+D:\GeekBrains\3. Знакомство с языками\Лекция 1. Знакомство с языком программирования C#\Example 01. Hello Console\obj\Debug\net6.0\Example 01. Hello Console.pdb
+D:\GeekBrains\3. Знакомство с языками\Лекция 1. Знакомство с языком программирования C#\Example 01. Hello Console\obj\Debug\net6.0\Example 01. Hello Console.genruntimeconfig.cache
+D:\GeekBrains\3. Знакомство с языками\Лекция 1. Знакомство с языком программирования C#\Example 01. Hello Console\obj\Debug\net6.0\ref\Example 01. Hello Console.dll
