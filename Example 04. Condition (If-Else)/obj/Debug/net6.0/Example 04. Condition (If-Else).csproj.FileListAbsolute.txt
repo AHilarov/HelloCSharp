@@ -1,0 +1,15 @@
+D:\GeekBrains\3. Знакомство с языками\Лекция 1. Знакомство с языком программирования C#\Example 04. Condition (If-Else)\obj\Debug\net6.0\Example 04. Condition (If-Else).csproj.AssemblyReference.cache
+D:\GeekBrains\3. Знакомство с языками\Лекция 1. Знакомство с языком программирования C#\Example 04. Condition (If-Else)\obj\Debug\net6.0\Example 04. Condition (If-Else).GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\3. Знакомство с языками\Лекция 1. Знакомство с языком программирования C#\Example 04. Condition (If-Else)\obj\Debug\net6.0\Example 04. Condition (If-Else).AssemblyInfoInputs.cache
+D:\GeekBrains\3. Знакомство с языками\Лекция 1. Знакомство с языком программирования C#\Example 04. Condition (If-Else)\obj\Debug\net6.0\Example 04. Condition (If-Else).AssemblyInfo.cs
+D:\GeekBrains\3. Знакомство с языками\Лекция 1. Знакомство с языком программирования C#\Example 04. Condition (If-Else)\obj\Debug\net6.0\Example 04. Condition (If-Else).csproj.CoreCompileInputs.cache
+D:\GeekBrains\3. Знакомство с языками\Лекция 1. Знакомство с языком программирования C#\Example 04. Condition (If-Else)\bin\Debug\net6.0\Example 04. Condition (If-Else).exe
+D:\GeekBrains\3. Знакомство с языками\Лекция 1. Знакомство с языком программирования C#\Example 04. Condition (If-Else)\bin\Debug\net6.0\Example 04. Condition (If-Else).deps.json
+D:\GeekBrains\3. Знакомство с языками\Лекция 1. Знакомство с языком программирования C#\Example 04. Condition (If-Else)\bin\Debug\net6.0\Example 04. Condition (If-Else).runtimeconfig.json
+D:\GeekBrains\3. Знакомство с языками\Лекция 1. Знакомство с языком программирования C#\Example 04. Condition (If-Else)\bin\Debug\net6.0\Example 04. Condition (If-Else).dll
+D:\GeekBrains\3. Знакомство с языками\Лекция 1. Знакомство с языком программирования C#\Example 04. Condition (If-Else)\bin\Debug\net6.0\Example 04. Condition (If-Else).pdb
+D:\GeekBrains\3. Знакомство с языками\Лекция 1. Знакомство с языком программирования C#\Example 04. Condition (If-Else)\obj\Debug\net6.0\Example 04. Condition (If-Else).dll
+D:\GeekBrains\3. Знакомство с языками\Лекция 1. Знакомство с языком программирования C#\Example 04. Condition (If-Else)\obj\Debug\net6.0\refint\Example 04. Condition (If-Else).dll
+D:\GeekBrains\3. Знакомство с языками\Лекция 1. Знакомство с языком программирования C#\Example 04. Condition (If-Else)\obj\Debug\net6.0\Example 04. Condition (If-Else).pdb
+D:\GeekBrains\3. Знакомство с языками\Лекция 1. Знакомство с языком программирования C#\Example 04. Condition (If-Else)\obj\Debug\net6.0\Example 04. Condition (If-Else).genruntimeconfig.cache
+D:\GeekBrains\3. Знакомство с языками\Лекция 1. Знакомство с языком программирования C#\Example 04. Condition (If-Else)\obj\Debug\net6.0\ref\Example 04. Condition (If-Else).dll
